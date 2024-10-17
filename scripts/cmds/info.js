@@ -26,8 +26,8 @@ module.exports = {
 
   onStart: async function ({ message, prefix }) {
     const botPrefix = prefix; // Use the provided bot prefix
-    const authorName = "Aljur Pogoy";
-    const authorFB = "https://www.facebook.com/profile.php?id=100073129302064";
+    const authorName = "Apple Yparraguirre";
+    const authorFB = "https://www.facebook.com/aravz.zzz";
 
     const now = moment().tz('Asia/Kathmandu');
     const date = now.format('MMMM Do YYYY');
@@ -47,7 +47,7 @@ module.exports = {
 message.reply(`======[𝗕𝗼𝘁 𝗶𝗻𝗳𝗼:]======
 𝗕𝗼𝘁 𝗽𝗿𝗲𝗳𝗶𝘅: ${botPrefix}
 
-𝗕𝗼𝘁 𝗻𝗮𝗺𝗲 : Yae Miko 2nd Ruler of Inazuma
+𝗕𝗼𝘁 𝗻𝗮𝗺𝗲 : Chiro 
 
 𝗢𝘄𝗻𝗲𝗿: ${authorName}
  
